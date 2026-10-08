@@ -50,7 +50,7 @@ Midterm/
 **Bước 1: Clone repository**
 ```bash
 git clone https://github.com/thanhkhang30102006oss/PhanThanhKhang_24IT109_midterm.git
-cd PhanThanhKhang_24IT109_midterm
+cd Midterm
 ```
 
 **Bước 2: Biên dịch chương trình**
