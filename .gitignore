@@ -2,6 +2,7 @@
 *.d
 
 # Object files
+ls
 *.o
 *.ko
 *.obj
@@ -53,3 +54,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+#vscode
+.vscode/
